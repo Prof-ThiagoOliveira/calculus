@@ -1,15 +1,15 @@
 [
   {
-    "icon": "fa-orcid",
+    "icon": "https://members.orcid.org/sites/default/files/vector_iD_icon.svg",
     "link": "https://orcid.org/0000-0002-4555-2584"
   },
   {
     "icon": "fa-lattes",
-    "link": " http://lattes.cnpq.br/1783758343544578"
+    "link": "http://lattes.cnpq.br/1783758343544578"
   },
   {
     "icon": "fa-linkedin",
-    "link": "www.linkedin.com/in/thiago-de-paula-oliveira"
+    "link": "http://www.linkedin.com/in/thiago-de-paula-oliveira"
   },
   {
     "icon": "fa-stack-exchange",
