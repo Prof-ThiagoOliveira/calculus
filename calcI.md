@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Homework
-permalink: /projects/
+title: Calculus I
+permalink: /calcI/
 ---
 
 Assignments.
