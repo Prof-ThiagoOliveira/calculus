@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+title: Differential and integral calculus
+description: Here a series of documents and exercise lists are available for calculus homework
+author: Thiago de Paula Oliveira
+logo: /calculus/static/img/avatar.png
+github: https://github.com/Prof-ThiagoOliveira
 about: Freelance developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://prof-thiagooliveira.github.io/calculus"
+url: "https://prof-thiagooliveira.github.io/calculus"
 
 allowsearch: true
 
