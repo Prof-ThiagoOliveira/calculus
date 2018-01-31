@@ -5,8 +5,8 @@
     <description>Here a series of documents and exercise lists are available for calculus homework</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000https://prof-thiagooliveira.github.io/calculus/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Jan 2018 17:31:40 -0200</pubDate>
-    <lastBuildDate>Wed, 31 Jan 2018 17:31:40 -0200</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2018 19:50:03 -0200</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2018 19:50:03 -0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -193,14 +193,18 @@ end tell
     
     
       <item>
-        <title>Cool project 1</title>
-        <description>Cool project 1</description>
-        <link>http://localhost:4000#</link>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 -0200</pubDate>
+        <title>Foundations of Calculus</title>
+        <description>Foundations of Calculus</description>
+        <link>http://localhost:4000https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/index.html</link>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0200</pubDate>
         
-        <category>Angular JS</category>
+        <category>Algebra</category>
         
-        <category>API</category>
+        <category>Functions</category>
+        
+        <category>Geometry</category>
+        
+        <category>Trigonometry</category>
         
       </item>
     
