@@ -11,8 +11,13 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Homework",
-    "url": "/projects/",
+    "text": "Calculus I",
+    "url": "/calcI/",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Calculus II",
+    "url": "/calcII/",
     "icon": "fa-desktop"
   },
   {
