@@ -11,12 +11,12 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Homework",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "Suggested Reading",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },

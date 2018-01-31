@@ -1,15 +1,15 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-orcid",
+    "link": "https://orcid.org/0000-0002-4555-2584"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fa-lattes",
+    "link": " http://lattes.cnpq.br/1783758343544578"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "www.linkedin.com/in/thiago-de-paula-oliveira"
   },
   {
     "icon": "fa-stack-exchange",
