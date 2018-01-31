@@ -13,16 +13,17 @@
   {
     "text": "Homework",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa-desktop",
+    "layout": "read"
   },
   {
-    "text": "Suggested Reading",
+    "text": "Reading",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/Prof-ThiagoOliveira",
     "icon": "fa-github"
   },
   {
