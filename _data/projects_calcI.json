@@ -1,7 +1,8 @@
 [
 	{
 		"name": "Foundations of Calculus I",
-		"curl": "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
+		"@id":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
+		"spouse": "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
 		"date": "31 Jan 2018",
 		"tags": ["Algebra", "Functions","Geometry", "Trigonometry"]
 	},
