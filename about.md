@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Part of the aim of this site is to train you to think logically. In this sense, a series of homework assignments have been available to training and stimulating  your skills in the study of integral and differential calculus. 
+O principal objetivo deste site é auxiliar no treinamento do pensamento lógico dos estudante. Para isso, são disponibilizados periodicamente listas de exercícios e sugestões de leitura a fim de estimular o aprendizado de cálculo e, consequentemente, o pensamento lógigo dos estudantes.
