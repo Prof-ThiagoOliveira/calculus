@@ -1,7 +1,7 @@
 ---
 layout: project_calc_II
-title: Calculus II
+title: Cálculo II
 permalink: /calcII/
 ---
 
-Assignments.
+Aqui estão disponibilizadas as listas de exercícios sobre os diversos assuntos abordados na disciplina de cálculo II.
