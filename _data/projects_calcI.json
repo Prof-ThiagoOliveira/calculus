@@ -6,11 +6,11 @@
 		"tags": ["Algebra", "Funções","Geometria", "Trigonometria"]
 	},
 	{
-		"name": "Limites e Continuidade",
+		"name": "Fundamentos em cálculo I: funções",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list2.pdf",
 		"date": "01 Fevereiro 2018",
-		"tags": ["Android","PHP"]
+		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversas", "Algebra", "Geometria"]
 	}
 
 ]
