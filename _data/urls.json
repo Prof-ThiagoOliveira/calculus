@@ -11,18 +11,18 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Cálculo I",
+    "text": "Calculus I",
     "url": "/calcI/",
     "icon": "fa-desktop"
   },
   {
-    "text": "Cálculo II",
+    "text": "Calculus II",
     "url": "/calcII/",
     "icon": "fa-calculator"
   },
   {
-    "text": "Leituras",
-    "url": "/#",
+    "text": "Reading",
+    "url": "/reading/",
     "icon": "fa-graduation-cap",
   },
   {

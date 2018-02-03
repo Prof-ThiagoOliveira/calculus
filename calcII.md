@@ -1,6 +1,6 @@
 ---
 layout: project_calc_II
-title: Cálculo II
+title: Calculus II
 permalink: /calcII/
 ---
 
