@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Calculus",
+		"name": "Algebra, geometry and trigonometry",
 		"image": "/calculus/static/img/reading.gif",
-		"url":  " ",
-		"date": "31 Janeiro 2018",
-		"tags": ["Algebra", "Funções","Geometria", "Trigonometria"]
+		"url":  "http://www.cengage.com/resource_uploads/downloads/1133105068_339610.pdf",
+		"date": "03 Fevereiro 2018",
+		"tags": ["Algebra", "Geometry","Trigonometry"]
 	}
 
 ]
