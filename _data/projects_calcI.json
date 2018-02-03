@@ -1,13 +1,14 @@
 [
 	{
 		"name": "Fundamentos em cálculo I",
+		"image": "Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
 		"date": "31 Janeiro 2018",
 		"tags": ["Algebra", "Funções","Geometria", "Trigonometria"]
 	},
 	{
 		"name": "Fundamentos em cálculo I: funções",
-		"image": "placeholder.jpg",
+		"image": "Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Estudo-de-funcoes.pdf",
 		"date": "01 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversas", "Algebra", "Geometria"]
