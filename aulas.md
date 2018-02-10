@@ -1,5 +1,5 @@
 ---
-layout: aulas
+layout: project_aulas
 title: Aulas
 permalink: /aulas/
 ---
