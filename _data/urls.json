@@ -26,6 +26,11 @@
     "icon": "fa-graduation-cap",
   },
   {
+    "text": "Classes",
+    "url": "/aulas/",
+    "icon": "fa-graduation-cap",
+  },
+  {
     "text": "Github",
     "url": "https://github.com/Prof-ThiagoOliveira",
     "icon": "fa-github"
