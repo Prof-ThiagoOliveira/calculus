@@ -5,3 +5,5 @@ permalink: /aulas/
 ---
 
 Aqui estão disponibilizadas as aulas ministradas sobre os assuntos abordados na disciplina de cálculo I e II.
+
+You may copy, distribute and modify this list as long as you cite the author.
