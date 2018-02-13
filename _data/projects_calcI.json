@@ -8,10 +8,16 @@
 	},
 	{
 		"name": "Fundamentos em cálculo I: funções",
-		"image": "/calculus/static/img/Calc2.jpg",
+		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Estudo-de-funcoes.pdf",
 		"date": "01 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversas", "Algebra", "Geometria"]
+	},
+	{
+		"name": "Fundamentos em cálculo I: limites e continuidade I",
+		"image": "/calculus/static/img/Calc.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidade.pdf",
+		"date": "13 Fevereiro 2018",
+		"tags": ["Funções", "Gráficos", "Limites"]
 	}
-
 ]
