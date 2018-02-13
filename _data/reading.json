@@ -5,6 +5,19 @@
 		"url":  "http://www.cengage.com/resource_uploads/downloads/1133105068_339610.pdf",
 		"date": "03 Fevereiro 2018",
 		"tags": ["Algebra", "Geometry","Trigonometry"]
+	},
+	{
+		"name": "Mathematical functions (Wolfram)",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.wolframalpha.com/examples/math/mathematical-functions/",
+		"date": "13 Fevereiro 2018",
+		"tags": ["Function", "Algebra", "Geometry","Trigonometry"]
+	},
+	{
+		"name": "e-aulas USP: Cálculo Diferencial e Integral",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://eaulas.usp.br/portal/video.action?idItem=2602",
+		"date": "13 Fevereiro 2018",
+		"tags": ["Calculus I", "Calculus II"]
 	}
-
 ]
