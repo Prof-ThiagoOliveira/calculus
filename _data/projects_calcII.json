@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Multivariate",
-		"url": "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/index",
-		"date": "31 Jan 2018",
-		"tags": ["Algebra", "Functions","Geometry", "Trigonometry"]
+		"name": "Integral indefinida: parte I",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-indefinida-parteI.pdf",
+		"date": "20 Fevereiro 2018",
+		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
 	}
-
 ]
