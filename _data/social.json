@@ -13,6 +13,6 @@
   },
   {
     "icon": "fa-envelope",
-    "link": "mailto:thiago.paula.oliveira@usp.br"
+    "link": "mailto:thiago.paula.oliveira@usp.br?subject = Feedback&body = Message""
   }
 ]
