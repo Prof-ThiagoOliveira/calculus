@@ -6,4 +6,11 @@
 		"date": "10 Fevereiro 2018",
 		"tags": ["Algebra", "Funções","Geometria", "Trigonometria", "Curvas paramétricas"]
 	},
+	{
+		"name": "Integral indefinida",
+		"image": "/calculus/static/img/aulas.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-indefinida.pdf",
+		"date": "10 Fevereiro 2018",
+		"tags": ["Integral", "Trigonometria", "Exponencial", "Logarítmica", "Polinômios"]
+	}
 ]
