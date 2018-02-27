@@ -21,13 +21,13 @@
     "icon": "fa-calculator"
   },
   {
-    "text": "Reading",
-    "url": "/reading/",
+    "text": "Classes",
+    "url": "/aulas/",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Classes",
-    "url": "/aulas/",
+    "text": "Reading",
+    "url": "/reading/",
     "icon": "fa-graduation-cap",
   },
   {
