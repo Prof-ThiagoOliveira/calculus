@@ -36,21 +36,21 @@
   },
 	{
 		"name": "Integral Calculus",
-		"image": "/calculus/static/img/reading3.gif",
+		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://ncert.nic.in/ncerts/l/lemh201.pdf",
 		"date": "18 Fevereiro 2018",
 		"tags": ["Integral"]
 	},
 	{
 		"name": "Integration by parts",
-		"image": "/calculus/static/img/reading3.gif",
+		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://www.math.wisc.edu/~park/Fall2011/integration/Integration%20by%20parts.pdf",
 		"date": "20 Fevereiro 2018",
 		"tags": ["Integration by parts"]
 	},
 	{
 		"name": "Integral de funções racionais",
-		"image": "/calculus/static/img/reading3.gif",
+		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://users.isr.ist.utl.pt/~aguiar/Fraccoes%20Simples.pdf",
 		"date": "20 Fevereiro 2018",
 		"tags": ["Integral", "Partial functions"]
