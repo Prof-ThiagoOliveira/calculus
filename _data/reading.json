@@ -7,6 +7,13 @@
 		"tags": ["Algebra", "Geometry","Trigonometry"]
 	},
 	{
+		"name": "Algebra, geometry and trigonometry",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://midia.atp.usp.br/impressos/lic/modulo01/fund_matematica_PLC0001/FundMat_I_top08.pdf",
+		"date": "27 Fevereiro 2018",
+		"tags": ["Trigonometry"]
+	},
+	{
 		"name": "Mathematical functions (Wolfram)",
 		"image": "/calculus/static/img/reading.gif",
 		"url":  "https://www.wolframalpha.com/examples/math/mathematical-functions/",
@@ -20,6 +27,13 @@
 		"date": "13 Fevereiro 2018",
 		"tags": ["Calculus I", "Calculus II"]
 	},
+	{
+ 	 "name": "Limits of functions",
+ 	 "image": "/calculus/static/img/reading.gif",
+ 	 "url":  "http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-limits-2009-1.pdf",
+ 	 "date": "27 Fevereiro 2018",
+ 	 "tags": ["Limits", "Functions"]
+  },
 	{
 		"name": "Integral Calculus",
 		"image": "/calculus/static/img/reading.gif",
@@ -39,6 +53,6 @@
 		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://users.isr.ist.utl.pt/~aguiar/Fraccoes%20Simples.pdf",
 		"date": "20 Fevereiro 2018",
-		"tags": ["Integral", "Frações parciais"]
+		"tags": ["Integral", "Partial functions"]
 	}
 ]
