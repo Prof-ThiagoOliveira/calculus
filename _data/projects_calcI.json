@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Tabela de identidades, derivadas e integrais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
+		"date": "20 Fevereiro 2018",
+		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+	},
+	{
 		"name": "Fundamentos em cálculo I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
