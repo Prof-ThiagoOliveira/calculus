@@ -1,4 +1,4 @@
-Cálculo II
+Cálculo Integral
 ================
 Thiago de Paula Oliveira
 1 de Março de 2018
