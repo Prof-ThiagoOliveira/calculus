@@ -35,6 +35,13 @@
  	 "tags": ["Limits", "Functions"]
   },
 	{
+ 	 "name": "Número de Neper ou de Euler",
+ 	 "image": "/calculus/static/img/reading.gif",
+ 	 "url":  "https://repositorio.uac.pt/bitstream/10400.3/3529/3/a-versatilidade-nr-neper-%28jornal%2924-4-2015-.pdf",
+ 	 "date": "05 Março 2018",
+ 	 "tags": ["Limits", "Functions", "Exponential"]
+  },
+	{
 		"name": "Integral Calculus",
 		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://ncert.nic.in/ncerts/l/lemh201.pdf",
