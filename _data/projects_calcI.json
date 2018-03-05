@@ -3,37 +3,37 @@
 		"name": "Tabela de identidades, derivadas e integrais",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
-		"date": "20 Fevereiro de 2018",
+		"date": "20 Fevereiro 2018",
 		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
 	},
 	{
 		"name": "Fundamentos em cálculo I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
-		"date": "31 Janeiro de 2018",
+		"date": "31 Janeiro 2018",
 		"tags": ["Algebra", "Funções","Geometria", "Trigonometria"]
 	},
 	{
 		"name": "Funções",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Estudo-de-funcoes.pdf",
-		"date": "01 Fevereiro de 2018",
+		"date": "01 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversas", "Algebra", "Geometria"]
 	},
 	{
 		"name": "Limites e continuidade: parte I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidade.pdf",
-		"date": "13 Fevereiro de 2018",
+		"date": "13 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos", "Limites"]
 	},
 	{
 		"name": "Limites e continuidade: parte II",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidadeII.pdf",
-		"date": "14 Fevereiro de 2018",
+		"date": "14 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos", "Limites", "Curvas paramétricas"]
-	}
+	},
 	{
 		"name": "Respostas dos exercícios",
 		"image": "/calculus/static/img/Calc.jpg",
