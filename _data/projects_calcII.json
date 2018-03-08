@@ -12,5 +12,12 @@
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-indefinida-parteI.pdf",
 		"date": "20 Fevereiro 2018",
 		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+	},
+	{
+		"name": "Respostas dos exercícios",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp_calcII.pdf",
+		"date": "20 Fevereiro 2018",
+		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
 	}
 ]
