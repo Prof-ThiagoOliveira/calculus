@@ -14,6 +14,13 @@
 		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
 	},
 	{
+		"name": "Integral indefinida: frações parciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/fracoes-parciais.pdf",
+		"date": "08 Março 2018",
+		"tags": ["Integral indefinida", "Funções", "Polinômios"]
+	},
+	{
 		"name": "Respostas dos exercícios",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp_calcII.pdf",
