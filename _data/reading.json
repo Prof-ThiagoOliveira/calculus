@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Tabela de símbolos matemáticos",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://pt.wikipedia.org/wiki/Tabela_de_s%C3%ADmbolos_matem%C3%A1ticos",
+		"date": "22 Março 2018",
+		"tags": ["Symbol", "Math"]
+	},
+	{
 		"name": "Algebra, geometry and trigonometry",
 		"image": "/calculus/static/img/reading.gif",
 		"url":  "http://www.cengage.com/resource_uploads/downloads/1133105068_339610.pdf",
