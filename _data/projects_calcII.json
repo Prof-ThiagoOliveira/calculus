@@ -21,6 +21,13 @@
 		"tags": ["Integral indefinida", "Funções", "Polinômios"]
 	},
 	{
+		"name": "Integral definida: parte I",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-definida-parteI.pdf",
+		"date": "06 Abril 2018",
+		"tags": ["Integral definida", "Funções", "Trigonometria"]
+	},
+	{
 		"name": "Respostas dos exercícios",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp_calcII.pdf",
