@@ -40,7 +40,13 @@
  	 "url":  "http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-limits-2009-1.pdf",
  	 "date": "27 Fevereiro 2018",
  	 "tags": ["Limits", "Functions"]
-  },
+  },	{
+	 	 "name": "Limites e Continuidade de funções",
+	 	 "image": "/calculus/static/img/reading.gif",
+	 	 "url":  "http://www.mtm.ufsc.br/mericles/arquivos/limite.PDF",
+	 	 "date": "16 Abril 2018",
+	 	 "tags": ["Limits", "Functions"]
+	  },
 	{
  	 "name": "Número de Neper ou de Euler",
  	 "image": "/calculus/static/img/reading.gif",
