@@ -36,9 +36,10 @@
     "icon": "fa-github"
   },
  {
-    "text": "Academic Profile",
+    "text": "Academic",
     "url": "https://prof-thiagooliveira.github.io/AcademicProfile/",
-  },
+    "icon": "fas fa-user-ninja" 
+ },
   {
     "text": "XML Feed",
     "url": "/feed.xml",
