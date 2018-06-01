@@ -1,5 +1,9 @@
 [
   {
+    "icon": "far fa-address-card",
+    "link": "https://prof-thiagooliveira.github.io/AcademicProfile/"
+  },
+  {
     "icon": "fa-graduation-cap",
     "link": "https://orcid.org/0000-0002-4555-2584"
   },
