@@ -41,6 +41,13 @@
 		"date": "14 Fevereiro 2018",
 		"tags": ["Function", "Graph", "Limits", "Parametric curves"]
 	},
+    	{
+		"name": "Estudo completo de funções",
+		"image": "/calculus/static/img/Calc.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
+		"date": "02 Junho 2018",
+	    "tags": ["Function", "Graph", "Parametric curves", "Differential"]
+	},
 	{
 		"name": "Respostas dos exercícios",
 		"image": "/calculus/static/img/Calc.jpg",
