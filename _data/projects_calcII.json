@@ -34,6 +34,13 @@
 		"date": "06 Junho 2018",
 		"tags": ["Derivadas", "Funções", "Curvas de Nível"]
 	},
+        {
+		"name": "Funções de duas variáveis: máximos e mínimos",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/maximos-minimos.pdf",
+		"date": "21 Junho 2018",
+	    "tags": ["Derivadas", "Funções", "Máximo", "Mínimo"]
+	},
 	{
 		"name": "Respostas de alguns exercícios",
 		"image": "/calculus/static/img/Calc2.jpg",
@@ -42,3 +49,5 @@
 		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
 	}
 ]
+
+
