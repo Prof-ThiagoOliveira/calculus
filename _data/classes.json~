@@ -1,0 +1,107 @@
+[
+	{
+		"name": "Tabela de símbolos matemáticos",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://pt.wikipedia.org/wiki/Tabela_de_s%C3%ADmbolos_matem%C3%A1ticos",
+		"date": "22 Março 2018",
+		"tags": ["Symbol", "Math"]
+	},
+	{
+		"name": "Algebra, geometry and trigonometry",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://www.cengage.com/resource_uploads/downloads/1133105068_339610.pdf",
+		"date": "03 Fevereiro 2018",
+		"tags": ["Algebra", "Geometry","Trigonometry"]
+	},
+	{
+		"name": "Algebra, geometry and trigonometry",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://midia.atp.usp.br/impressos/lic/modulo01/fund_matematica_PLC0001/FundMat_I_top08.pdf",
+		"date": "27 Fevereiro 2018",
+		"tags": ["Trigonometry"]
+	},
+	{
+		"name": "Mathematical functions (Wolfram)",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.wolframalpha.com/examples/math/mathematical-functions/",
+		"date": "13 Fevereiro 2018",
+		"tags": ["Function", "Algebra", "Geometry","Trigonometry"]
+	},
+	{
+		"name": "e-aulas USP: Cálculo Diferencial e Integral",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://eaulas.usp.br/portal/video.action?idItem=2602",
+		"date": "13 Fevereiro 2018",
+		"tags": ["Calculus I", "Calculus II"]
+	},
+	{
+ 	 "name": "Limits of functions",
+ 	 "image": "/calculus/static/img/reading.gif",
+ 	 "url":  "http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-limits-2009-1.pdf",
+ 	 "date": "27 Fevereiro 2018",
+ 	 "tags": ["Limits", "Functions"]
+  },
+	{
+ 	 "name": "Limites e Continuidade de funções",
+ 	 "image": "/calculus/static/img/reading.gif",
+ 	 "url":  "http://www.mtm.ufsc.br/mericles/arquivos/limite.PDF",
+ 	 "date": "16 Abril 2018",
+ 	 "tags": ["Limits", "Functions"]
+  },
+	{
+	 "name": "Demonstração do limite fundamental trigonométrico",
+	 "image": "/calculus/static/img/reading.gif",
+	 "url":  "https://www.youtube.com/watch?v=qurAykEsxio",
+	 "date": "16 Abril 2018",
+	 "tags": ["Limits", "Functions"]
+		},
+		{
+		 "name": "Demonstração do limite fundamental exponencial",
+		 "image": "/calculus/static/img/reading.gif",
+		 "url":  "https://www.youtube.com/watch?v=hvyVuqfcqF0",
+		 "date": "16 Abril 2018",
+		 "tags": ["Limits", "Functions"]
+  	},
+	{
+ 	 "name": "Número de Neper ou de Euler",
+ 	 "image": "/calculus/static/img/reading.gif",
+ 	 "url":  "https://repositorio.uac.pt/bitstream/10400.3/3529/3/a-versatilidade-nr-neper-%28jornal%2924-4-2015-.pdf",
+ 	 "date": "05 Março 2018",
+ 	 "tags": ["Limits", "Functions", "Exponential"]
+  },
+	{
+		"name": "Integral Calculus",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://ncert.nic.in/ncerts/l/lemh201.pdf",
+		"date": "18 Fevereiro 2018",
+		"tags": ["Integral"]
+	},
+	{
+		"name": "Integration by parts",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://www.math.wisc.edu/~park/Fall2011/integration/Integration%20by%20parts.pdf",
+		"date": "20 Fevereiro 2018",
+		"tags": ["Integration by parts"]
+	},
+	{
+		"name": "Integral de funções racionais",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "http://users.isr.ist.utl.pt/~aguiar/Fraccoes%20Simples.pdf",
+		"date": "20 Fevereiro 2018",
+		"tags": ["Integral", "Partial functions"]
+	},
+	{
+		"name": "Integral - Frações parciais: parte I",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.youtube.com/watch?v=iEhKfVjSw5A",
+		"date": "30 Junho 2018",
+		"tags": ["Integral", "Partial functions"]
+	},
+	{
+		"name": "Integral - Frações parciais: parte II",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.youtube.com/watch?v=AQR5gr8Es40",
+		"date": "30 Junho 2018",
+		"tags": ["Integral", "Partial functions"]
+	}
+]

@@ -6,23 +6,28 @@
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "Sobre",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Calculus I",
+    "text": "Cálculo I",
     "url": "/calcI/",
     "icon": "fa-desktop"
   },
   {
-    "text": "Calculus II",
+    "text": "Cálculo II",
     "url": "/calcII/",
     "icon": "fa-calculator"
   },
   {
-    "text": "Classes",
+    "text": "Resumos",
     "url": "/aulas/",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Vídeo-Aula",
+    "url": "/classes/",
     "icon": "fa-graduation-cap",
   },
   {
@@ -36,7 +41,7 @@
     "icon": "fa-github"
   },
  {
-    "text": "Academic",
+    "text": "Meu Perfil",
     "url": "https://prof-thiagooliveira.github.io/AcademicProfile/",
     "icon": "fa-cogs" 
  },

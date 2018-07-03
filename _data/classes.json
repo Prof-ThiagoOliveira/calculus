@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Integral - Frações parciais: parte I",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.youtube.com/watch?v=iEhKfVjSw5A",
+		"date": "30 Junho 2018",
+		"tags": ["Integral", "Partial functions"]
+	},
+	{
+		"name": "Integral - Frações parciais: parte II",
+		"image": "/calculus/static/img/reading.gif",
+		"url":  "https://www.youtube.com/watch?v=AQR5gr8Es40",
+		"date": "30 Junho 2018",
+		"tags": ["Integral", "Partial functions"]
+	}
+]
