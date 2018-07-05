@@ -18,35 +18,35 @@
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Estudo-de-funcoes.pdf",
 		"date": "05 Março 2018",
-		"tags": ["Function", "Graph", "Parametric curves", "Inverse", "Algebric", "Geometry"]
+		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversa", "Algebra", "Geometria"]
 	},
 	{
 		"name": "Funções: parte II",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/trigonometricas.pdf",
 		"date": "03 Abril 2018",
-		"tags": ["Functions", "Trigonometry"]
+		"tags": ["Funções", "Trigonometria"]
 	},
 	{
 		"name": "Limites e continuidade: parte I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidade.pdf",
 		"date": "13 Fevereiro 2018",
-		"tags": ["Function", "Graph", "Limits"]
+		"tags": ["Funções", "Gráficos", "Limites"]
 	},
 	{
 		"name": "Limites e continuidade: parte II",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidadeII.pdf",
 		"date": "14 Fevereiro 2018",
-		"tags": ["Function", "Graph", "Limits", "Parametric curves"]
+		"tags": ["Funções", "Gráficos", "Limites", "Curvas paramétricas"]
 	},
     	{
 		"name": "Estudo completo de funções",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
 		"date": "02 Junho 2018",
-	    "tags": ["Function", "Graph", "Parametric curves", "Differential"]
+	    "tags": ["Funções", "Gráficos", "Curvas paramétricas", "Diferencial"]
 	},
 	{
 		"name": "Respostas dos exercícios",

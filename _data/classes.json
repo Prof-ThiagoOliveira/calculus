@@ -6,6 +6,20 @@
 		"date": "30 Junho 2018",
 		"tags": ["Limites", "Funções"]
 	},
+	{
+	 "name": "Demonstração do limite fundamental trigonométrico",
+	 "image": "/calculus/static/img/reading.gif",
+	 "url":  "https://www.youtube.com/watch?v=qurAykEsxio",
+	 "date": "16 Abril 2018",
+	 "tags": ["Limites", "Funções"]
+	},
+	{
+	 "name": "Demonstração do limite fundamental exponencial",
+	 "image": "/calculus/static/img/reading.gif",
+	 "url":  "https://www.youtube.com/watch?v=hvyVuqfcqF0",
+	 "date": "16 Abril 2018",
+	 "tags": ["Limites", "Funções"]
+  	},
         {
 		"name": "Integral - Frações parciais: parte I",
 		"image": "/calculus/static/img/classes.png",
