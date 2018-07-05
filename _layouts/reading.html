@@ -9,7 +9,7 @@ layout: default
     <div class="reading row">
     {% include project_tags.html %}
     {% for i in site.data.reading %}
-    <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
+    <div class="project-item col-lg-2 col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
     			<a href="/calculus/static/img/reading.gif" class="thickbox">
