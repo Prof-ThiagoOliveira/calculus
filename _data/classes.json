@@ -4,20 +4,41 @@
 		"image": "/calculus/static/img/classes.png",
 		"url":  "https://www.youtube.com/watch?v=DkCHV5Kbx4o",
 		"date": "30 Junho 2018",
-		"tags": ["Integral", "Partial functions"]
+		"tags": ["Limites", "Funções"]
 	},
         {
 		"name": "Integral - Frações parciais: parte I",
 		"image": "/calculus/static/img/classes.png",
 		"url":  "https://www.youtube.com/watch?v=iEhKfVjSw5A",
 		"date": "30 Junho 2018",
-		"tags": ["Integral", "Partial functions"]
+		"tags": ["Integral", "Frações parciais"]
 	},
 	{
 		"name": "Integral - Frações parciais: parte II",
 		"image": "/calculus/static/img/classes.png",
 		"url":  "https://www.youtube.com/watch?v=AQR5gr8Es40",
 		"date": "30 Junho 2018",
-		"tags": ["Integral", "Partial functions"]
+		"tags": ["Integral", "Frações parciais"]
+	},
+	{
+		"name": "Integral dupla: parte I",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "http://eaulas.usp.br/portal/video.action?idItem=6353",
+		"date": "05 Julho 2018",
+	    "tags": ["Integral", "Funções", "Duas variáveis"]
+	},
+	{
+		"name": "Integral dupla: parte II",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "http://eaulas.usp.br/portal/video.action?idItem=6368",
+		"date": "05 Julho 2018",
+		"tags": ["Integral", "Funções", "Duas variáveis"]
+	},
+	{
+		"name": "Integral dupla: parte III",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "http://eaulas.usp.br/portal/video.action?idItem=6360",
+		"date": "05 Julho 2018",
+		"tags": ["Integral", "Funções", "Duas variáveis"]
 	}
 ]
