@@ -4,49 +4,49 @@
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
 		"date": "20 Fevereiro 2018",
-		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+	    "tags": ["Funções","Derivada","Integral"]
 	},
 	{
 		"name": "Integral indefinida: parte I",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-indefinida-parteI.pdf",
 		"date": "08 Março 2018",
-		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+		"tags": ["Funções", "Trigonometria"]
 	},
 	{
 		"name": "Integral indefinida: frações parciais",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/fracoes-parciais.pdf",
 		"date": "08 Março 2018",
-		"tags": ["Integral indefinida", "Funções", "Polinômios"]
+		"tags": ["Funções", "Polinômios"]
 	},
 	{
 		"name": "Integral definida: parte I",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-definida-parteI.pdf",
 		"date": "06 Abril 2018",
-		"tags": ["Integral definida", "Funções", "Trigonometria"]
+		"tags": ["Funções", "Trigonometria"]
 	},
         {
 		"name": "Curvas de Nível e Derivadas Parciais",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/derivadas-parciais.pdf",
 		"date": "06 Junho 2018",
-		"tags": ["Derivadas", "Funções", "Curvas de Nível"]
+		"tags": ["Derivadas", "Curvas de Nível"]
 	},
         {
 		"name": "Funções de duas variáveis: máximos e mínimos",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/maximos-minimos.pdf",
 		"date": "21 Junho 2018",
-	    "tags": ["Derivadas", "Funções", "Máximo", "Mínimo"]
+	    "tags": ["Derivadas", "Máximo", "Mínimo"]
 	},
 	{
 		"name": "Respostas de alguns exercícios",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp_calcII.pdf",
 		"date": "08 Março 2018",
-		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+		"tags": ["Respostas"]
 	}
 ]
 

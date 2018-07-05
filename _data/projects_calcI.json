@@ -4,21 +4,21 @@
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
 		"date": "20 Fevereiro 2018",
-		"tags": ["Integral indefinida", "Funções", "Trigonometria"]
+	    "tags": ["Funções","Derivada","Integral"]
 	},
 	{
 		"name": "Fundamentos em cálculo I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/list1.pdf",
 		"date": "31 Janeiro 2018",
-		"tags": ["Algebric", "Function","Geometry", "Trigonometry"]
+		"tags": ["Function","Geometry"]
 	},
 	{
 		"name": "Funções: parte I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Estudo-de-funcoes.pdf",
 		"date": "05 Março 2018",
-		"tags": ["Funções", "Gráficos", "Curvas paramétricas", "Inversa", "Algebra", "Geometria"]
+		"tags": ["Funções", "Gráficos"]
 	},
 	{
 		"name": "Funções: parte II",
@@ -32,21 +32,21 @@
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidade.pdf",
 		"date": "13 Fevereiro 2018",
-		"tags": ["Funções", "Gráficos", "Limites"]
+		"tags": ["Funções", "Gráficos"]
 	},
 	{
 		"name": "Limites e continuidade: parte II",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidadeII.pdf",
 		"date": "14 Fevereiro 2018",
-		"tags": ["Funções", "Gráficos", "Limites", "Curvas paramétricas"]
+		"tags": ["Funções", "Gráficos"]
 	},
     	{
 		"name": "Estudo completo de funções",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
 		"date": "02 Junho 2018",
-	    "tags": ["Funções", "Gráficos", "Curvas paramétricas", "Diferencial"]
+	    "tags": ["Funções", "Gráficos", "Diferencial"]
 	},
 	{
 		"name": "Respostas dos exercícios",
