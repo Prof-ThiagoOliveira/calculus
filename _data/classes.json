@@ -1,9 +1,37 @@
 [
         {
-		"name": "Noção intuitiva de limites",
+		"name": "Funções: parte I",
 		"image": "/calculus/static/img/classes.png",
-		"url":  "https://www.youtube.com/watch?v=DkCHV5Kbx4o",
-		"date": "30 Junho 2018",
+		"url":  "https://www.youtube.com/watch?v=vBxka1HhlAs&index=2&list=PL2D9B691A704C6F7B",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+	},
+        {
+		"name": "Funções: parte II",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=qFXs4iSsbrk&list=PL2D9B691A704C6F7B&index=3",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+	},
+        {
+		"name": "Criando funções: parte I",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=LDbD0z2_xdQ&index=4&list=PL2D9B691A704C6F7B",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+	},
+        {
+		"name": "Criando funções: parte II",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=qFXs4iSsbrk&list=PL2D9B691A704C6F7B&index=3",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+	},    
+        {
+		"name": "Limites obtidos graficamente",
+		"image": "/calculus/static/img/classes.png",
+		"url":  " https://www.youtube.com/watch?v=DIzwGegP8YE",
+		"date": "11 Julho 2018",
 		"tags": ["Limites", "Funções"]
 	},
 	{
