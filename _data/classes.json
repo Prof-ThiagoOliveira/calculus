@@ -34,6 +34,76 @@
 		"date": "11 Julho 2018",
 		"tags": ["Limites", "Funções"]
 	},
+       {
+		"name": "Limites pela definição",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=zPqqLgtpblU",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Propriedades dos limites",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=jrd8UWtS9PY",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Teorema do confronto nos limites",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=bO6vfpadtZw",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites indeterminados: parte I",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=P4GQORp0g6c",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites indeterminados: parte II",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=BCoHH-cCy-g",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites laterais",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=gQUD0ruFrVo",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites no infinito",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=xO9IeoeRalo",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites infinitos",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=sWY48bq1IoA",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Limites envolvendo o infinito",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=MKms8CesZn8",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+       },
+       {
+		"name": "Assíntotas",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=2dZzW_yt0Eo",
+		"date": "11 Julho 2018",
+		"tags": ["Limites", "Funções"]
+	},
 	{
 	 "name": "Limite fundamental trigonométrico",
 	 "image": "/calculus/static/img/reading.gif",
