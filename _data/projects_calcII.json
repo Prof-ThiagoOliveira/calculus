@@ -13,19 +13,19 @@
 		"date": "08 Março 2018",
 		"tags": ["Funções", "Trigonometria"]
 	},
-	{
-		"name": "Integral indefinida: frações parciais",
-		"image": "/calculus/static/img/Calc2.jpg",
-		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/fracoes-parciais.pdf",
-		"date": "08 Março 2018",
-		"tags": ["Funções", "Polinômios"]
-	},
-	{
+    	{
 		"name": "Integral definida: parte I",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-definida-parteI.pdf",
 		"date": "06 Abril 2018",
 		"tags": ["Funções", "Trigonometria"]
+	},
+	{
+		"name": "Integral envolvendo frações parciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/fracoes-parciais.pdf",
+		"date": "08 Março 2018",
+		"tags": ["Funções", "Polinômios"]
 	},
         {
 		"name": "Curvas de Nível e Derivadas Parciais",

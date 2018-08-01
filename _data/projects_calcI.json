@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Tabela: derivadas e integrais",
+		"name": "Tabela",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
 		"date": "20 Fevereiro 2018",
@@ -28,21 +28,21 @@
 		"tags": ["Funções", "Trigonometria"]
 	},
 	{
-		"name": "Limites e continuidade: parte I",
+		"name": "Limites: parte I",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidade.pdf",
 		"date": "13 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos"]
 	},
 	{
-		"name": "Limites e continuidade: parte II",
+		"name": "Limites: parte II",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/limites-e-continuidadeII.pdf",
 		"date": "14 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos"]
 	},
     	{
-		"name": "Estudo completo de funções",
+		"name": "Estudo de funções",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
 		"date": "02 Junho 2018",
