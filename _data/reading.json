@@ -28,7 +28,7 @@
 		"tags": ["Funções", "Algebra", "Geometria","Trigonometria"]
 	},
 	{
- 	 "name": "Limits of functions",
+ 	 "name": "Limits of functions and its definitions",
  	 "image": "/calculus/static/img/reading.gif",
  	 "url":  "http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-limits-2009-1.pdf",
  	 "date": "27 Fevereiro 2018",
@@ -42,7 +42,7 @@
  	 "tags": ["Limits", "Functions"]
 	},
     {
- 	 "name": "Número de Neper ou de Euler",
+ 	 "name": "Número de Neper/Euler",
  	 "image": "/calculus/static/img/reading.gif",
  	 "url":  "https://repositorio.uac.pt/bitstream/10400.3/3529/3/a-versatilidade-nr-neper-%28jornal%2924-4-2015-.pdf",
  	 "date": "05 Março 2018",
