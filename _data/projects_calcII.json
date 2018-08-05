@@ -41,6 +41,13 @@
 		"date": "21 Junho 2018",
 	    "tags": ["Derivadas", "Máximo", "Mínimo"]
 	},
+       {
+		"name": "Integral dupla",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-dupla.pdf",
+		"date": "05 Agosto 2018",
+	    "tags": ["Integral"]
+	},
 	{
 		"name": "Respostas de alguns exercícios",
 		"image": "/calculus/static/img/Calc2.jpg",
