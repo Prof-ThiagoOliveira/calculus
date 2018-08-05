@@ -35,11 +35,18 @@
 		"tags": ["Derivadas", "Curvas de Nível"]
 	},
         {
-		"name": "Funções de duas variáveis",
+		"name": "Máximos e Mínimos",
 		"image": "/calculus/static/img/Calc2.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/maximos-minimos.pdf",
 		"date": "21 Junho 2018",
 	    "tags": ["Derivadas", "Máximo", "Mínimo"]
+	},
+        {
+		"name": "Equações diferenciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/differential-equations.pdf",
+		"date": "05 Agosto 2018",
+	    "tags": ["Differential Equation"]
 	},
        {
 		"name": "Integral dupla",
