@@ -47,12 +47,5 @@
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
 		"date": "02 Junho 2018",
 	    "tags": ["Funções", "Gráficos", "Diferencial"]
-	},
-	{
-		"name": "Respostas dos exercícios",
-		"image": "/calculus/static/img/Calc.jpg",
-		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp.pdf",
-		"date": "05 Março de 2018",
-		"tags": ["Respostas"]
 	}
 ]
