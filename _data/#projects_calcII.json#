@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Tabela",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/Tabela.pdf",
+		"date": "20 Fevereiro 2018",
+	    "tags": ["Funções","Derivada","Integral"]
+	},
+	{
+		"name": "Integral indefinida: parte I",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-indefinida-parteI.pdf",
+		"date": "08 Março 2018",
+		"tags": ["Funções", "Trigonometria"]
+	},
+    	{
+		"name": "Integral definida: parte I",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-definida-parteI.pdf",
+		"date": "06 Abril 2018",
+		"tags": ["Funções", "Trigonometria"]
+	},
+	{
+		"name": "Integral envolvendo frações parciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/fracoes-parciais.pdf",
+		"date": "08 Março 2018",
+		"tags": ["Funções", "Polinômios"]
+	},
+        {
+		"name": "Curvas de Nível e Derivadas Parciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/derivadas-parciais.pdf",
+		"date": "06 Junho 2018",
+		"tags": ["Derivadas", "Curvas de Nível"]
+	},
+        {
+		"name": "Duas variáveis: máximos e mínimos",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/maximos-minimos.pdf",
+		"date": "21 Junho 2018",
+	    "tags": ["Derivadas", "Máximo", "Mínimo"]
+	},
+        {
+		"name": "Equações diferenciais",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/differential-equations.pdf",
+		"date": "05 Agosto 2018",
+	    "tags": ["Differential Equation"]
+	},
+       {
+		"name": "Integral dupla",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/integral-dupla.pdf",
+		"date": "05 Agosto 2018",
+	    "tags": ["Integral"]
+	},
+	{
+		"name": "Respostas de alguns exercícios",
+		"image": "/calculus/static/img/Calc2.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/resp_calcII.pdf",
+		"date": "08 Março 2018",
+		"tags": ["Respostas"]
+	}
+]
+
+

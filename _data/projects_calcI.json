@@ -48,6 +48,13 @@
 		"date": "14 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos"]
 	},
+        {
+		"name": "Derivadas: parte I",
+		"image": "/calculus/static/img/Calc.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/derivadas-parteI.pdf",
+		"date": "14 Fevereiro 2018",
+		"tags": ["Funções", "Gráficos"]
+	},
     	{
 		"name": "Estudo de funções",
 		"image": "/calculus/static/img/Calc.jpg",
