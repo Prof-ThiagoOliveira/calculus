@@ -103,7 +103,21 @@
 		"url":  "https://www.youtube.com/watch?v=2dZzW_yt0Eo",
 		"date": "11 Julho 2018",
 		"tags": ["Limites", "Funções"]
-	},
+       },
+       { 
+		"name": "Assíntotas oblíquas I",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=GTjMsjUaDu8",
+		"date": "26 stembro 2018",
+		"tags": ["Limites", "Funções"]
+       },
+      {
+		"name": "Assíntotas oblíquas II",
+		"image": "/calculus/static/img/classes.png",
+		"url":  "https://www.youtube.com/watch?v=nQBTsq7cD60",
+		"date": "26 stembro 2018",
+		"tags": ["Limites", "Funções"]
+       },
 	{
 	 "name": "Limite fundamental trigonométrico",
 	 "image": "/calculus/static/img/reading.gif",
