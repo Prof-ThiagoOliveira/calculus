@@ -55,11 +55,18 @@
 		"date": "14 Fevereiro 2018",
 		"tags": ["Funções", "Gráficos"]
 	},
+       {
+		"name": "Derivadas: parte II",
+		"image": "/calculus/static/img/Calc.jpg",
+		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/derivadas-parteII.pdf",
+		"date": "24 Outubro 2018",
+		"tags": ["Funções", "Gráficos"]
+	},
     	{
 		"name": "Estudo de funções",
 		"image": "/calculus/static/img/Calc.jpg",
 		"url":  "https://github.com/Prof-ThiagoOliveira/calculus/blob/master/_lists/estudo-completo-de-funcoes.pdf",
 		"date": "02 Junho 2018",
-	    "tags": ["Funções", "Gráficos", "Diferencial"]
+	    "tags": ["Funções", "Gráficos"]
 	}
 ]
